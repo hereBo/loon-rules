@@ -20,3 +20,6 @@ DOMAIN-SUFFIX,cncbinternational.com
 DOMAIN-SUFFIX,dahsing.com
 DOMAIN-SUFFIX,bnc.com.hk
 DOMAIN-SUFFIX,publicbank.com.hk
+DOMAIN-SUFFIX,ebanking.hkbea.com,DIRECT
+DOMAIN-SUFFIX,hkbea.com,DIRECT
+DOMAIN-KEYWORD,bea,DIRECT
