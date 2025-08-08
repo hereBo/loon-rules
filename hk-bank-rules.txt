@@ -1,4 +1,3 @@
-ZA香港银行 App 直连规则
 DOMAIN-SUFFIX,hsbc.com.hk,DIRECT
 DOMAIN-SUFFIX,hsbc.com,DIRECT
 DOMAIN-SUFFIX,hangseng.com,DIRECT
