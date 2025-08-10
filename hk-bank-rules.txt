@@ -31,3 +31,4 @@ DOMAIN-SUFFIX,mox.com,DIRECT
 DOMAIN-SUFFIX,fusionbank.com,DIRECT
 DOMAIN-SUFFIX,welab.bank,DIRECT
 DOMAIN-SUFFIX,livibank.com,DIRECT
+DOMAIN-SUFFIX,americanexpress.com,DIRECT
