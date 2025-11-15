@@ -1,5 +1,4 @@
-DOMAIN-SUFFIX,hsbc.com.hk,DIRECT
-DOMAIN-SUFFIX,hsbc.com,DIRECT
+#All banks except HSBC and Amex
 DOMAIN-SUFFIX,hangseng.com,DIRECT
 DOMAIN-SUFFIX,sc.com,DIRECT
 DOMAIN-SUFFIX,standardchartered.com.hk,DIRECT
@@ -31,4 +30,3 @@ DOMAIN-SUFFIX,mox.com,DIRECT
 DOMAIN-SUFFIX,fusionbank.com,DIRECT
 DOMAIN-SUFFIX,welab.bank,DIRECT
 DOMAIN-SUFFIX,livibank.com,DIRECT
-DOMAIN-SUFFIX,americanexpress.com,DIRECT
