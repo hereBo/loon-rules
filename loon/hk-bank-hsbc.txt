@@ -1,0 +1,2 @@
+#HSBC
+DOMAIN-SUFFIX,hsbc.com.hk,Proxy
