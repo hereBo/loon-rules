@@ -1,4 +1,5 @@
-#All banks except HSBC and Amex HK
+#All HK banks and wise, except HSBC HK & Amex HK
+DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,sc.com,DIRECT
 DOMAIN-SUFFIX,standardchartered.com.hk,DIRECT
 DOMAIN-SUFFIX,standardchartered.com,DIRECT
