@@ -1,3 +1,17 @@
 #AE C1
-DOMAIN-SUFFIX,americanexpress.com,Proxy
+# --- Capital One ---
 DOMAIN-SUFFIX,capitalone.com,Proxy
+DOMAIN-SUFFIX,capitalone.io,Proxy
+DOMAIN-SUFFIX,caponecdn.com,Proxy
+DOMAIN-SUFFIX,confirmit.com,Proxy
+DOMAIN-SUFFIX,arkoselabs.com,Proxy
+
+# --- American Express ---
+DOMAIN-SUFFIX,americanexpress.com,Proxy
+DOMAIN-SUFFIX,aexp-static.com,Proxy
+DOMAIN-SUFFIX,aexp.com,Proxy
+DOMAIN-SUFFIX,amexnetwork.com,Proxy
+
+# --- KEYWORD ---
+DOMAIN-KEYWORD,capitalone,Proxy
+DOMAIN-KEYWORD,americanexpress,Proxy
