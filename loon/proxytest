@@ -1,0 +1,7 @@
+# 只有 whatismyip没有走代理链
+DOMAIN-SUFFIX,scamalytics.com,Proxy
+DOMAIN-SUFFIX,ipinfo.io,Proxy
+DOMAIN-SUFFIX,ifconfig.me,Proxy
+DOMAIN-SUFFIX,ip111.cn,Proxy
+DOMAIN-SUFFIX,whatismyipaddress.com,Proxy
+DOMAIN-SUFFIX,ip.gs,Proxy
